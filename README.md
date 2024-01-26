@@ -1,1 +1,1 @@
-# linguistically_informed_t5
+# Linguistic Knowledge Can Enhance Encoder-Decoder Models (If You Let It)
