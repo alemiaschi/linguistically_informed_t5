@@ -1,6 +1,6 @@
 # Linguistic Knowledge Can Enhance Encoder-Decoder Models (*If You Let It*)
 
-<p float="center">
+<p align="center">
     <img src="img/LiT5_approach.png" alt="Linguistically-Informed T5 Approach" width="500"/>
 </p>
 
@@ -40,3 +40,5 @@ The datasets in the ```complexity_data``` are structured in training and test da
 - *sentence*: the raw text.
 
 - *label*: the label (i.e. average complexity score) associated with the sentence.
+
+## Models
