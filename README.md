@@ -1,6 +1,6 @@
 # Linguistic Knowledge Can Enhance Encoder-Decoder Models (*If You Let It*)
 
-<p float="left">
+<p float="center">
     <img src="img/LiT5_approach.png" alt="Linguistically-Informed T5 Approach" width="500"/>
 </p>
 
@@ -12,6 +12,7 @@ This repository contains data and models associated to the paper "Linguistic Kno
     title = "Linguistic Knowledge Can Enhance Encoder-Deocer Models (If You Let It)",
     author = "Miaschi, Alessio and Dell'Orletta Felice and Venturi, Giulia",
 }
+```
 
 ## Dataset
 
