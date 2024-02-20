@@ -42,3 +42,7 @@ The datasets in the ```complexity_data``` folder are structured in training and 
 - *label*: the label (i.e. average complexity score) associated with the sentence.
 
 ## Models
+
+The T5 models fine-tuned on the intermediate tasks, i.e. the LiT5 models, can be accessed via [🤗 Huggingface Model Hub](https://huggingface.co/docs/hub/models-the-hub). The following fine-tuned models are available:
+
+- **[Li-iT5-small](https://huggingface.co/alemiaschi/li-it5-small)** - Small Italian T5 (6+6 layers, 60M parameters) fine-tuned on the 10 selected linguistic properties.
