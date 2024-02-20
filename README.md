@@ -23,9 +23,9 @@ The respository is structured in two main folders:
 - **complexity_data** - Contains the datasets for the target task (i.e. complexity score prediction) both for the Italian and English languages.
 
 
-The datasets in the ```intermediate_tasks_data``` are structured in training and test data. Each file contains one instance per row, with the following information:
+The datasets in the ```intermediate_tasks_data``` folder are structured in training and test data. Each file contains one instance per row, with the following information:
 
-- id: id of the sentence.
+- *id*: id of the sentence.
 
 - *sentence*: the raw text.
 
@@ -33,9 +33,9 @@ The datasets in the ```intermediate_tasks_data``` are structured in training and
 
 - *feature*: the name of the linguistic property.
 
-The datasets in the ```complexity_data``` are structured in training and test data. The training data is further split into 5 bins containing an increasing number of sentences and balanced for the six sentence lengths. Each file contains one instance per row, with the following information:
+The datasets in the ```complexity_data``` folder are structured in training and test data. The training data is further split into 5 bins containing an increasing number of sentences and balanced for the six sentence lengths. Each file contains one instance per row, with the following information:
 
-- id: id of the sentence.
+- *id*: id of the sentence.
 
 - *sentence*: the raw text.
 
