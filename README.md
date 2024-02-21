@@ -1,7 +1,7 @@
 # Linguistic Knowledge Can Enhance Encoder-Decoder Models (*If You Let It*)
 
 <p align="center">
-    <img src="img/LiT5_approach_v2.png" alt="Linguistically-Informed T5 Approach" width="500"/>
+    <img src="img/LiT5_approach_v2.png" alt="Linguistically-Informed T5 Approach" width="900"/>
 </p>
 
 
