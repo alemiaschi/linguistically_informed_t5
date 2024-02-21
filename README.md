@@ -41,7 +41,7 @@ The datasets in the ```complexity_data``` folder are structured in training and 
 
 - *label*: the label (i.e. average complexity score) associated with the sentence.
 
-The target task dataset is based on the corpus introduced in ["Is this Sentence Difficult? Do you agree?"](https://aclanthology.org/D18-1289.pdf). Please also cite this work if you use the dataset in your work:
+The target task dataset is based on the corpus introduced in ["Is this Sentence Difficult? Do you agree?"](https://aclanthology.org/D18-1289.pdf) (Brunato et al., 2018). Please also cite this work if you use the dataset in your work:
 
 ```bibtex
 @inproceedings{brunato-etal-2018-sentence,
