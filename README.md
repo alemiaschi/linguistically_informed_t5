@@ -1,11 +1,11 @@
 # Linguistic Knowledge Can Enhance Encoder-Decoder Models (*If You Let It*)
 
 <p align="center">
-    <img src="img/LiT5_approach.png" alt="Linguistically-Informed T5 Approach" width="500"/>
+    <img src="img/LiT5_approach_v2.png" alt="Linguistically-Informed T5 Approach" width="500"/>
 </p>
 
 
-This repository contains data and models associated to the paper "Linguistic Knowledge Can Enhance Encoder-Decoder Models (*If You Let It*)". If you use any of the following contents for your work, we kindly ask you to cite our paper:
+This repository contains data and models associated to the LREC-COLING 2024 paper "Linguistic Knowledge Can Enhance Encoder-Decoder Models (*If You Let It*)". If you use any of the following contents for your work, we kindly ask you to cite our paper:
 
 ```bibtex
 @inproceedings{miaschi_linguistic_knowledge,
