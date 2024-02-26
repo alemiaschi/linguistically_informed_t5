@@ -79,4 +79,4 @@ The T5 models fine-tuned on the intermediate tasks, i.e. the LiT5 models, can be
 - **[Li-iT5-large](https://huggingface.co/alemiaschi/li-it5-large)** - Large Italian T5 (24+24 layers, 738M parameters) fine-tuned on the 10 selected linguistic properties.
 - **[LiT5-small](https://huggingface.co/alemiaschi/lit5-small)** - Small English T5 (6+6 layers, 60M parameters) fine-tuned on the 10 selected linguistic properties.
 - **[LiT5-base](https://huggingface.co/alemiaschi/lit5-base)** - Base English T5 (12+12 layers, 220M parameters) fine-tuned on the 10 selected linguistic properties.
-- **LiT5-large** - Large English T5 (24+24 layers, 770M parameters) fine-tuned on the 10 selected linguistic properties.
+- **[LiT5-large](https://huggingface.co/alemiaschi/lit5-large)** - Large English T5 (24+24 layers, 770M parameters) fine-tuned on the 10 selected linguistic properties.
