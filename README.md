@@ -5,7 +5,7 @@
 </p>
 
 
-This repository contains data and models associated to the LREC-COLING 2024 paper "Linguistic Knowledge Can Enhance Encoder-Decoder Models (*If You Let It*)". If you use any of the following contents for your work, we kindly ask you to cite our paper:
+This repository contains data and models associated to the LREC-COLING 2024 paper ["Linguistic Knowledge Can Enhance Encoder-Decoder Models (*If You Let It*)"](https://arxiv.org/pdf/2402.17608.pdf). If you use any of the following contents for your work, we kindly ask you to cite our paper:
 
 ```bibtex
 @article{miaschi2024linguistic,
