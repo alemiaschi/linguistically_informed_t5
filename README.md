@@ -5,16 +5,28 @@
 </p>
 
 
-This repository contains data and models associated to the LREC-COLING 2024 paper ["Linguistic Knowledge Can Enhance Encoder-Decoder Models (*If You Let It*)"](https://arxiv.org/pdf/2402.17608.pdf). If you use any of the following contents for your work, we kindly ask you to cite our paper:
+This repository contains data and models associated to the LREC-COLING 2024 paper ["Linguistic Knowledge Can Enhance Encoder-Decoder Models (*If You Let It*)"](https://aclanthology.org/2024.lrec-main.922.pdf). If you use any of the following contents for your work, we kindly ask you to cite our paper:
 
 ```bibtex
-@article{miaschi2024linguistic,
-    title={Linguistic Knowledge Can Enhance Encoder-Decoder Models (If You Let It)},
-    author={Alessio Miaschi and Felice Dell'Orletta and Giulia Venturi},
-    year={2024},
-    eprint={2402.17608},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{miaschi-etal-2024-linguistic-knowledge,
+    title = "Linguistic Knowledge Can Enhance Encoder-Decoder Models (If You Let It)",
+    author = "Miaschi, Alessio  and
+      Dell{'}Orletta, Felice  and
+      Venturi, Giulia",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italy",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.922",
+    pages = "10539--10554",
+    abstract = "In this paper, we explore the impact of augmenting pre-trained Encoder-Decoder models, specifically T5, with linguistic knowledge for the prediction of a target task. In particular, we investigate whether fine-tuning a T5 model on an intermediate task that predicts structural linguistic properties of sentences modifies its performance in the target task of predicting sentence-level complexity. Our study encompasses diverse experiments conducted on Italian and English datasets, employing both monolingual and multilingual T5 models at various sizes. Results obtained for both languages and in cross-lingual configurations show that linguistically motivated intermediate fine-tuning has generally a positive impact on target task performance, especially when applied to smaller models and in scenarios with limited data availability.",
 }
 ```
 
